@@ -2,7 +2,7 @@
 This app displays an order form for coffee. 
 
 ## Support ##
-1-Udacity
+1-Udacity<br>
 2- Android Developers: https://developer.android.com
 
 ## APP OVERVIEW ##
